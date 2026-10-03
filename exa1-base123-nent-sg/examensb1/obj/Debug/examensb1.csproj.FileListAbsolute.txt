@@ -1,0 +1,63 @@
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SB\examensb1\examensb1\bin\Debug\examensb1.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SB\examensb1\examensb1\bin\Debug\examensb1.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SB\examensb1\examensb1\bin\Debug\examensb1.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SB\examensb1\examensb1\obj\Debug\examensb1.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SB\examensb1\examensb1\obj\Debug\examensb1.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SB\examensb1\examensb1\obj\Debug\examensb1.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SB\examensb1\examensb1\obj\Debug\examensb1.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SB\examensb1\examensb1\obj\Debug\examensb1.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SB\examensb1\examensb1\obj\Debug\examensb1.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\VECTORES\SB\examensb1\examensb1\bin\Debug\examensb1.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\VECTORES\SB\examensb1\examensb1\bin\Debug\examensb1.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\VECTORES\SB\examensb1\examensb1\bin\Debug\examensb1.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\VECTORES\SB\examensb1\examensb1\obj\Debug\examensb1.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\VECTORES\SB\examensb1\examensb1\obj\Debug\examensb1.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\VECTORES\SB\examensb1\examensb1\obj\Debug\examensb1.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\VECTORES\SB\examensb1\examensb1\obj\Debug\examensb1.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\VECTORES\SB\examensb1\examensb1\obj\Debug\examensb1.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\VECTORES\SB\examensb1\examensb1\obj\Debug\examensb1.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\examen1 - base\examensb1\obj\Debug\examensb1.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\examen1 - base\examensb1\obj\Debug\examensb1.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\examen1 - base\examensb1\obj\Debug\examensb1.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\examen1 - base\examensb1\obj\Debug\examensb1.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\examen1 - base\examensb1\obj\Debug\examensb1.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\examen1 - base\examensb1\obj\Debug\examensb1.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\examen1 - base\examensb1\bin\Debug\examensb1.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\examen1 - base\examensb1\bin\Debug\examensb1.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\examen1 - base\examensb1\bin\Debug\examensb1.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\base\examen1 - base\examensb1\bin\Debug\examensb1.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\base\examen1 - base\examensb1\bin\Debug\examensb1.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\base\examen1 - base\examensb1\bin\Debug\examensb1.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\base\examen1 - base\examensb1\obj\Debug\examensb1.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\base\examen1 - base\examensb1\obj\Debug\examensb1.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\base\examen1 - base\examensb1\obj\Debug\examensb1.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\base\examen1 - base\examensb1\obj\Debug\examensb1.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\base\examen1 - base\examensb1\obj\Debug\examensb1.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Simulacro\1ER PARCIAL\base\examen1 - base\examensb1\obj\Debug\examensb1.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123\examensb1\bin\Debug\examensb1.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123\examensb1\bin\Debug\examensb1.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123\examensb1\bin\Debug\examensb1.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123\examensb1\obj\Debug\examensb1.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123\examensb1\obj\Debug\examensb1.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123\examensb1\obj\Debug\examensb1.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123\examensb1\obj\Debug\examensb1.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123\examensb1\obj\Debug\examensb1.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123\examensb1\obj\Debug\examensb1.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123 - nent\examensb1\bin\Debug\examensb1.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123 - nent\examensb1\bin\Debug\examensb1.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123 - nent\examensb1\bin\Debug\examensb1.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123 - nent\examensb1\obj\Debug\examensb1.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123 - nent\examensb1\obj\Debug\examensb1.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123 - nent\examensb1\obj\Debug\examensb1.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123 - nent\examensb1\obj\Debug\examensb1.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123 - nent\examensb1\obj\Debug\examensb1.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\01 grupo si\base\examen1 - base 123 - nent\examensb1\obj\Debug\examensb1.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\02 grupo sg\exa1-base123-nent-sg\examensb1\bin\Debug\examensb1.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\02 grupo sg\exa1-base123-nent-sg\examensb1\bin\Debug\examensb1.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\02 grupo sg\exa1-base123-nent-sg\examensb1\bin\Debug\examensb1.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\02 grupo sg\exa1-base123-nent-sg\examensb1\obj\Debug\examensb1.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\02 grupo sg\exa1-base123-nent-sg\examensb1\obj\Debug\examensb1.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\02 grupo sg\exa1-base123-nent-sg\examensb1\obj\Debug\examensb1.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\02 grupo sg\exa1-base123-nent-sg\examensb1\obj\Debug\examensb1.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\02 grupo sg\exa1-base123-nent-sg\examensb1\obj\Debug\examensb1.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2026\Parciales\1e parcial\02 grupo sg\exa1-base123-nent-sg\examensb1\obj\Debug\examensb1.pdb
